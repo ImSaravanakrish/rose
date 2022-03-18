@@ -59,7 +59,7 @@ async def start_bot():
  _____________________________________________   
 |                                             |  
 |         > Deployed Successfully <           |  
-|         (C) 2021-2022 by @szteambots        | 
+|         (C) 2021-2022 by @TamilBots         | 
 |          Greetings from supun  :)           |
 |_____________________________________________|  
                                                                                              
@@ -98,7 +98,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
                 text="👨‍💻 About", callback_data="_about"
             ),
             InlineKeyboardButton(
-                text="🌎 Network", url="https://t.me/TeamSzRoseBot"
+                text="🌎 Network", url="https://t.me/TamilBotz"
             ),
         ],
         [
@@ -245,7 +245,7 @@ async def help_parser(name, keyboard=None):
 I'm a group management bot with some useful features.
 You can choose an option below, by clicking a button.
 If you have any bugs or questions on how to use me, 
-have a look at my [Docs](https://szsupunma.gitbook.io/rose-bot/), or head to @szteambots.
+have a look at my [Docs](https://imsaravanakrish.gitbook.io/imsaravanakrish/), or head to @TamilBots.
 
 **All commands can be used with the following: / **
 """.format(
