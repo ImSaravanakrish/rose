@@ -10,14 +10,14 @@ from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 text = """
 Rose was created on **August 10, 2021**. We are currently developing and maintaining the **WilliamButcherBot**  and **Alita_Robot** plugin, using only the Pyrogram libarry.
 
-• [support group](https://t.me/slbotzone) 
-• [News Channel](https://t.me/szroseupdates) 
-• [Documentation](https://szsupunma.gitbook.io/rose-bot/)
-• [Logs Channel](https://t.me/szroselog)
-• [Network](https://t.me/TeamSzRoseBot)
-• [Source Code](https://github.com/szsupunma/sz-rosebot)
+• [support group](https://t.me/TamilSupport) 
+• [News Channel](https://t.me/TamilBots) 
+• [Documentation](https://imsaravanakrish.gitbook.io/imsaravanakrish/)
+• [Logs Channel](https://t.me/TamilBots)
+• [Network](https://t.me/TamilBotZ)
+• [Source Code](https://github.com/ImSaravanakrish)
 
-**Current Version:** `1.0.8` | [Changelogs](https://szsupunma.gitbook.io/rose-bot/changelogs)
+**Current Version:** `1.0.8` | [Changelogs](https://imsaravanakrish.gitbook.io/imsaravanakrish/changelogs)
 """
 
 fbuttons = InlineKeyboardMarkup(
